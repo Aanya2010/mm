@@ -1,0 +1,53 @@
+.heading {
+    font-size: 23px;
+    width:100%;
+    margin: 0px;
+}
+
+.note {
+color: black;
+font-size: 15px;
+}
+
+body {
+    background-size: cover;
+
+}
+
+.speed{
+    float: left;
+}
+
+.simg{
+    border-radius: 100px;
+    width: 200px;
+}
+
+#speed{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.volume{
+    float: right;
+}
+
+.vimg{
+    border-radius: 100px;
+    width: 200px;
+}
+
+#volume{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.play{
+    width: 130px;
+    font-size: 25px;
+}
+
+canvas{
+    border: 5px white solid;
+    border-radius: 20px;
+}
